@@ -7,7 +7,7 @@
 # Cloud Computing
 
 > 
-> Deploy https://github.com/RajatSablok/to-do- workshop (a Node.js application) on any cloud computing platform.
+> Deploy https://github.com/RajatSablok/fuzzy-happiness-bookmarks (a Node.js application) on any cloud computing platform.
 
 ---
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
