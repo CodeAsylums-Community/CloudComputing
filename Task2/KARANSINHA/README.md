@@ -1,5 +1,5 @@
 # This is the completed task detail.
- ** I have deployed the repo (fuzzy_happiness_bookmark](https://github.com/GlitchBrain/fuzzy-happiness-bookmarks.git) in a DigitalOcean droplet**
+ *I have deployed the repo (fuzzy_happiness_bookmark](https://github.com/GlitchBrain/fuzzy-happiness-bookmarks.git) in a DigitalOcean droplet*
 
  ## access the site at http://157.230.191.146/
 
