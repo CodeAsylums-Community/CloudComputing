@@ -21,11 +21,11 @@
                 proxy_set_header Host $host;
                 proxy_cache_bypass $http_upgrade; }`
  > go to the root directory of the fuzzy_happiness_bookmark git cloned and execute the following commands
-  * npm install 
-  * touch .env
-  * echo "DBURI" >> .env
-  * npm start
-  * pm2 start app.js
-  * sudo ufw allow 3000/tcp
+  * ` npm install `
+  * `touch .env`
+  * `echo "DBURI" >> .env`
+  * `npm start`
+  * `pm2 start app.js`
+  * `sudo ufw allow 3000/tcp`
 
   
